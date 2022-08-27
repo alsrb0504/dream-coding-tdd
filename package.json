@@ -19,5 +19,8 @@
   "homepage": "https://github.com/alsrb0504/dream-coding-tdd#readme",
   "devDependencies": {
     "jest": "^29.0.1"
+  },
+  "dependencies": {
+    "@types/jest": "^28.1.8"
   }
 }
